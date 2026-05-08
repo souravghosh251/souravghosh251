@@ -2,8 +2,6 @@ Hi there 👋, My Name is Sourav Ghosh
 
 📩 contactsourav9546@gmail.com
 
-Typing SVG
-
 💫 I am a Data Engineer
 
 🔦 My role involves designing, building, and optimizing scalable data pipelines and processing large volumes of Finance & Insurance data to generate actionable insights.
