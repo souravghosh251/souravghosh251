@@ -10,7 +10,7 @@ Hi there 👋, My Name is Sourav Ghosh
 
 📈 I specialize in Big Data technologies, Data Warehousing, Data Modeling, Real-Time Data Processing, and workflow orchestration tools to build reliable and scalable data platforms.
 
-☁️ Experienced in working with modern data ecosystems including Spark, Hadoop, Kafka, Airflow, Azure Data Factory, and cloud platforms.
+☁️ Experienced in working with modern data ecosystems including Spark, SQL, Python , Azure Services .
 
 📉 I enjoy transforming raw data into meaningful business insights through dashboards, reporting, and analytics solutions.
 
